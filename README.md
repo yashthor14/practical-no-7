@@ -1,5 +1,3 @@
-# 8 Queens using Backtracking
-
 ```python
 N = 8
 
